@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime, timedelta, date
 
 # Part 1: Display current date and time
 def display_current_datetime():
